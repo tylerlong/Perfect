@@ -622,7 +622,7 @@
 					"$(PROJECT_DIR)/linked/OpenSSL/osx",
 					"$(PROJECT_DIR)/linked/SQLite3/osx",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MODULEMAP_PRIVATE_FILE = "${SRCROOT}/OSX/module.modulemap";
 				OTHER_SWIFT_FLAGS = "-DTMP_NOT_USE_LIBDISPATCH";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.perfectlysoft.PerfectLib;
@@ -656,7 +656,7 @@
 					"$(PROJECT_DIR)/linked/OpenSSL/osx",
 					"$(PROJECT_DIR)/linked/SQLite3/osx",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MODULEMAP_PRIVATE_FILE = "${SRCROOT}/OSX/module.modulemap";
 				OTHER_SWIFT_FLAGS = "-DTMP_NOT_USE_LIBDISPATCH";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.perfectlysoft.PerfectLib;
